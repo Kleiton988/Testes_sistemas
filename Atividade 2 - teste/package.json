@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "jest": "^30.3.0"
+  },
+  "name": "atividade-2---teste",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
